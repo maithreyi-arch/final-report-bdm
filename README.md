@@ -1,2 +1,3 @@
 # final-report-bdm
 A Data Management Project researching viable areas of improvement in a business. The project focuses on different aspects of a business’ practices and examines the aspects of the operation that work well for it, and those that need improvement.
+For the analysis, quantitative and qualitative datapoints were considered. Some unstructured qualitative data, like feedback, relevant to this study has been collected through online reviews and has been summarized. An attempt has been made to analyze various factors that go into the business, like age distribution, treatment types, specializations, appointment distribution and advertising methods to understand patterns and operations. The analysis has been done using Microsoft Excel.
